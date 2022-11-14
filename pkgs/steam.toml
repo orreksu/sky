@@ -1,5 +1,4 @@
 name = "Steam"
-version = "4.0"
 
 [apt]
 repository = "multiverse"
