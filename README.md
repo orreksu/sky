@@ -19,5 +19,5 @@ Note: steam is from repository multiverse, you have 2 more packages from that re
 ```
 
 ### Alternatives
-- [tea](https://github.com/teaxyz/cli)
+- [tea](https://github.com/teaxyz/cli) | [post](https://medium.com/teaxyz/tea-brew-478a9e736638)
 - [brew](https://github.com/Homebrew/brew)
