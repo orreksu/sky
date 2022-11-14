@@ -1,0 +1,25 @@
+name = "Steam"
+version = "4.0"
+
+[apt]
+repository = "multiverse"
+package = "steam"
+
+[dnf]
+repository = "rpmfusion"
+package = "steam"
+
+[brew]
+package = "steam"
+type = "cask"
+
+[arch]
+repository = "multilib"
+package = "steam"
+
+[flatpack]
+repository = "flathub"
+package = "com.valvesoftware.Steam"
+
+[snap]
+package = "steam"
