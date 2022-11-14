@@ -17,3 +17,7 @@ Removing steam with apt ...
 Done
 Note: steam is from repository multiverse, you have 2 more packages from that repository installed
 ```
+
+### Alternatives
+- [tea](https://github.com/teaxyz/cli)
+- [brew](https://github.com/Homebrew/brew)
